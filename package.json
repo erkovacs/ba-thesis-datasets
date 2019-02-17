@@ -1,0 +1,22 @@
+{
+  "name": "ba-thesis-datasets",
+  "version": "1.0.0",
+  "description": "web scraper to create a dataset for touristic objectives in Romania",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codepadawan93/ba-thesis-datasets.git"
+  },
+  "author": "Erik Kovacs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codepadawan93/ba-thesis-datasets/issues"
+  },
+  "homepage": "https://github.com/codepadawan93/ba-thesis-datasets#readme",
+  "dependencies": {
+    "puppeteer": "^1.12.2"
+  }
+}
