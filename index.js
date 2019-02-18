@@ -1,8 +1,17 @@
 const puppeteer = require('puppeteer');
 const fetch = require("node-fetch");
+const fs = require('fs');
 require("dotenv").config();
 
-const { APP_ID, APP_CODE, APP_COORDS_AT } = process.env;
+const { 
+    APP_ID, 
+    APP_CODE, 
+    APP_COORDS_AT,
+    MIN_LONGITUDE,
+    MAX_LONGITUDE,
+    MIN_LATITUDE,
+    MAX_LATITUDE } = process.env;
+
 const scraper = {};
 
 // Start at page with counties of romania, and get all 
@@ -11,7 +20,9 @@ scraper.SEARCH_URL = "https://en.wikipedia.org/w/index.php?profile=advanced&full
 scraper.GEOCODING_API_URL = `https://places.cit.api.here.com/places/v1/autosuggest?app_id=${APP_ID}&app_code=${APP_CODE}&at=${APP_COORDS_AT}&q=`;
 scraper.BASE_OUTPUT = "./output/";
 scraper.ALLOWED_EXTENSIONS = ['', 'htm', 'html', 'php', 'asp', 'aspx', 'do'];
-scraper.DELAY_MILLIS = 1001;
+scraper.DELAY_MILLIS = 2005;
+
+const CSV_HEADER = "NAME,ADDRESS,CATEGORY,DESCRIPTION,COUNTY,LATITUDE,LONGITUDE,RATING";
 
 scraper.isValidLink = function(url){
     const parsedURL = new URL(url);
@@ -27,6 +38,13 @@ scraper.isValidLink = function(url){
 
 scraper.execute = async function(){
   const allAttractions = [];
+
+  // Write to a csv
+  const csv = fs.createWriteStream(this.BASE_OUTPUT + "attractions.csv", {
+    flags: 'a' // 'a' means appending (old data will be preserved)
+  });
+  csv.write(CSV_HEADER + "\n") // append string to your file
+
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
   await page.goto(this.START_URL);
@@ -41,6 +59,7 @@ scraper.execute = async function(){
   if(countyLinks && countyLinks.length > 0){
     for(countyLink of countyLinks){
         if(this.isValidLink(countyLink) && /county/i.test(countyLink)){
+            console.log(countyLink);
             await page.waitFor(this.DELAY_MILLIS);
             await page.goto(countyLink);
             const countyData = await page.evaluate(() => {
@@ -70,7 +89,9 @@ scraper.execute = async function(){
                 return {countyName, attractions};
             });
             if(countyData.attractions.length > 0){
+                const parsedCountyName = countyData.countyName.replace(/county|\"/ig, '').trim();
                 for(let attraction of countyData.attractions){
+                    console.log(attraction);
                     const regex = /\.|\,|the\s|\sthe|\sthe\s/gi;
                     const maxLength = 35;
                     let searchTerm = attraction.toLowerCase().replace(regex, '');
@@ -81,10 +102,10 @@ scraper.execute = async function(){
                         }
                         searchTerm = searchTerm.substring(0, i);
                     }
+
                     // Get some basic description data
                     await page.waitFor(this.DELAY_MILLIS);
                     await page.goto(this.SEARCH_URL + encodeURI(searchTerm), {waitUntil: 'networkidle2'});
-                    console.log(searchTerm);
                     let description = "";
                     try{
                         await page.click(".mw-search-result a");
@@ -95,26 +116,84 @@ scraper.execute = async function(){
                     } catch (e) {
                         console.error(e);
                     }
-
+                    const medianCoords = [];
+                    medianCoords[0] = 0;
+                    medianCoords[1] = 0;
                     try{
                         const res = await fetch(this.GEOCODING_API_URL + encodeURI(searchTerm));
                         const json = await res.json();
-                        console.log(this.GEOCODING_API_URL + encodeURI(searchTerm), json);
+                        console.log("GOT RESULTS: " + json.results.length);
+                        const placesInRomania = json.results.filter(place => {
+                            return (
+                                place.position &&
+                                place.position[0] >= MIN_LATITUDE && 
+                                place.position[0] <= MAX_LATITUDE &&
+                                place.position[1] >= MIN_LONGITUDE &&
+                                place.position[1] <= MAX_LONGITUDE 
+                                );
+                            });
+                        placesInRomania.map(place => {
+                            medianCoords[0] += place.position[0];
+                            medianCoords[1] += place.position[1];
+                            const newAttraction = {
+                                name: place.title.replace(/\"/ig, ""),
+                                address: place.vicinity ? place.vicinity.replace(/(<([^>]+)>)/ig," ") : "N/A",
+                                category: place.categoryTitle,
+                                description: "N/A",
+                                county: parsedCountyName,
+                                latitude: place.position[0],
+                                longitude: place.position[1],
+                                rating: 0
+                            };
+
+                            allAttractions.push(newAttraction);
+                            const {name,
+                                address,
+                                category,
+                                description,
+                                county,
+                                latitude,
+                                longitude,
+                                rating} = newAttraction;
+                            const line =`"${name}","${address}","${category}","${description}","${county}",${latitude},${longitude},${rating}`.replace(/\n/ig, '');
+                            csv.write(line + "\n");
+                            console.log(newAttraction.name + " written");
+                        });
+                        medianCoords[0] /= placesInRomania.length || 1;
+                        medianCoords[1] /= placesInRomania.length || 1;
                     } catch (e){
                         console.error(e);
                     }
-                    allAttractions.push({
-                        name: attraction,
-                        description: description || "N/A",
-                        county: countyData.countyName
-                    });
+                    const newAttraction = {
+                            name: attraction.replace(/\"/ig, ""),
+                            address: parsedCountyName + ", Romania",
+                            category: "Attraction",
+                            description: description ? description.replace(/\"/ig, "") : "N/A",
+                            county: parsedCountyName,
+                            latitude: medianCoords[0],
+                            longitude: medianCoords[1],
+                            rating: 0
+                        };
+                    allAttractions.push(newAttraction);
+                    const {name,
+                        address,
+                        category,
+                        county,
+                        latitude,
+                        longitude,
+                        rating} = newAttraction;
+                    const line = `"${name}","${address}","${category}","${newAttraction.description}","${county}",${latitude},${longitude},${rating}`.replace(/\n/ig, '');
+                    csv.write(line + "\n");
+                    console.log(newAttraction.name + " written");
                 }
             }
-            console.log(allAttractions);
+        } else {
+            console.log("Invalid link: " + countyLink);
         }
     };
   }
   await browser.close();
+  csv.end();
 }
 
 scraper.execute();
