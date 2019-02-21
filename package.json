@@ -4,7 +4,8 @@
   "description": "web scraper to create a dataset for touristic objectives in Romania",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "execute": "node index.js"
   },
   "repository": {
     "type": "git",
