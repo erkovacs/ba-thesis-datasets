@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "test",
-    "execute": "node index.js"
+    "first-pass": "node firstPass.js",
+    "second-pass": "node secondPass.js"
   },
   "repository": {
     "type": "git",
