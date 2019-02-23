@@ -1013,8 +1013,8 @@ NR CRT,NAME,ADDRESS,CATEGORY,DESCRIPTION,COUNTY,LATITUDE,LONGITUDE,RATING
 1012,"Secret Transylvania Guest House","Strada Bisericilor 555301 Cisnădie","Accommodation","Pe 23 februarie va avea loc o ?nt?lnire a wikipedi?tilor din zona Moldovei ?n Ia?i. Detalii ?i ?nscrieri ?n pagina ?nt?lnirii.","Sibiu",45.70461,24.11053,0
 1013,"Apfelhaus Cisnadioara","Strada Mărului 555301 Cisnădie","Restaurant","","Sibiu",45.71054,24.10787,0
 1014,"Centrul Cisnaădioara","Strada Piața Gozelinus 555301 Cisnădie","Parking Facility","N/A","Sibiu",45.70484,24.11208,0
-1015,"Cisnădioara.","Sibiu, Romania","Attraction","Pe 23 februarie va avea loc o întâlnire a wikipediștilor din zona Moldovei în Iași. Detalii și înscrieri în pagina întâlnirii.
-1016,","Sibiu",45.705642222222224,24.109474444444444,0","","N/A
+1015,"Cisnădioara.","Sibiu, Romania","Attraction","Pe 23 februarie va avea loc o întâlnire a wikipediștilor din zona Moldovei în Iași. Detalii și înscrieri în pagina întâlnirii.","Sibiu",45.705642222222224,24.109474444444444,0
+1016,"Cisnădioara","Sibiu","Attraction","N/A","Sibiu",0,0,0
 1017,"Slimnic","Sibiu","City, Town or Village","N/A","Sibiu",45.91935,24.15528,0
 1018,"Slimnic","Tâmboești","Administrative Region","Pe 23 februarie va avea loc o întâlnire a wikipediștilor din zona Moldovei în Iași. Detalii și înscrieri în pagina întâlnirii.","Sibiu",45.51204,27.05494,0
 1019,"Spitalul Militar Sibiu","Bulevardul Victoriei 46 550024 Sibiu","Hospital","N/A","Sibiu",45.78492,24.13944,0
