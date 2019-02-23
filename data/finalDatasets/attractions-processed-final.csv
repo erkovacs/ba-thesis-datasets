@@ -206,8 +206,8 @@ NR CRT,NAME,ADDRESS,CATEGORY,DESCRIPTION,COUNTY,LATITUDE,LONGITUDE,RATING
 205,"poblana near Mountain Flat Brasov, Brașov, ROU","N/A","undefined","N/A","Brașov",45.63686,25.5822,0
 206,"Poiana Brașov mountain resort.","Brașov, Romania","Attraction","Poiana Brașov (Romanian pronunciation: [poˈjana braˈʃov]) is a neighborhood of Brasov and a Romanian ski resort popular among visitors from many European states. After the 2010s modernization, the ski area has expanded from 50 hectares to 80 hectares and the slopes length was increased from 13.8 km to 23.9 km. most slopes now have snow cannons installed. In 2013, it hosted figure skating, alpine skiing and short track in the European Youth Olympic Winter Festival.","Brașov",45.60504826315789,25.515876947368426,0
 207,"Hotel Resort Hart","505303 Predeal","Hotel","N/A","Brașov",45.52566,25.57151,0
-208,"Predeal","Strada Muncii 6 505300 Predeal","Hotel","N/A
-209,","Brașov",45.506289,25.580555,0","","?
+208,"Predeal","Strada Muncii 6 505300 Predeal","Hotel","N/A","Brașov",45.506289,25.580555,0
+209,"","","","N/A","Brasov",0,0,0
 210,"Complex Eden","Strada Neagoe Basarab 7 505300 Predeal","Hotel","N/A","Brașov",45.51072,25.59105,0
 211,"Atrium Hotel Mountain View Predeal","Strada Tudor Vladimirescu 24 505300 Predeal","Hotel","N/A","Brașov",45.50087,25.5792,0
 212,"Mountain Sanctuary","Strada Avram Iancu 505300 Predeal","Accommodation","N/A","Brașov",45.51104,25.57269,0
