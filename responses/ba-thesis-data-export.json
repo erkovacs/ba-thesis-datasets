@@ -1,0 +1,3331 @@
+{
+  "responses" : {
+    "-LZnAl151uo5H08Os-We" : {
+      "scores" : [ {
+        "attractionId" : "15",
+        "rating" : 1
+      }, {
+        "attractionId" : "16",
+        "rating" : 1
+      }, {
+        "attractionId" : "17",
+        "rating" : 1
+      }, {
+        "attractionId" : "21",
+        "rating" : 1
+      }, {
+        "attractionId" : "31",
+        "rating" : 1
+      }, {
+        "attractionId" : "32",
+        "rating" : 1
+      }, {
+        "attractionId" : "34",
+        "rating" : 1
+      }, {
+        "attractionId" : "35",
+        "rating" : 1
+      }, {
+        "attractionId" : "36",
+        "rating" : 1
+      }, {
+        "attractionId" : "38",
+        "rating" : 1
+      }, {
+        "attractionId" : "56",
+        "rating" : 1
+      }, {
+        "attractionId" : "60",
+        "rating" : 1
+      }, {
+        "attractionId" : "66",
+        "rating" : 1
+      }, {
+        "attractionId" : "141",
+        "rating" : 1
+      }, {
+        "attractionId" : "142",
+        "rating" : 1
+      }, {
+        "attractionId" : "146",
+        "rating" : 1
+      }, {
+        "attractionId" : "151",
+        "rating" : 1
+      }, {
+        "attractionId" : "152",
+        "rating" : 1
+      }, {
+        "attractionId" : "153",
+        "rating" : 1
+      }, {
+        "attractionId" : "154",
+        "rating" : 1
+      }, {
+        "attractionId" : "175",
+        "rating" : 1
+      }, {
+        "attractionId" : "176",
+        "rating" : 1
+      }, {
+        "attractionId" : "187",
+        "rating" : 1
+      }, {
+        "attractionId" : "188",
+        "rating" : 1
+      }, {
+        "attractionId" : "190",
+        "rating" : 1
+      }, {
+        "attractionId" : "208",
+        "rating" : 1
+      }, {
+        "attractionId" : "230",
+        "rating" : 1
+      }, {
+        "attractionId" : "232",
+        "rating" : 1
+      }, {
+        "attractionId" : "235",
+        "rating" : 1
+      }, {
+        "attractionId" : "262",
+        "rating" : 1
+      }, {
+        "attractionId" : "263",
+        "rating" : 1
+      }, {
+        "attractionId" : "264",
+        "rating" : 1
+      }, {
+        "attractionId" : "284",
+        "rating" : 1
+      }, {
+        "attractionId" : "334",
+        "rating" : 1
+      }, {
+        "attractionId" : "335",
+        "rating" : 1
+      }, {
+        "attractionId" : "336",
+        "rating" : 1
+      }, {
+        "attractionId" : "352",
+        "rating" : 1
+      }, {
+        "attractionId" : "353",
+        "rating" : 1
+      }, {
+        "attractionId" : "354",
+        "rating" : 1
+      }, {
+        "attractionId" : "355",
+        "rating" : 1
+      }, {
+        "attractionId" : "357",
+        "rating" : 1
+      }, {
+        "attractionId" : "361",
+        "rating" : 1
+      }, {
+        "attractionId" : "391",
+        "rating" : 1
+      }, {
+        "attractionId" : "402",
+        "rating" : 1
+      }, {
+        "attractionId" : "406",
+        "rating" : 1
+      }, {
+        "attractionId" : "407",
+        "rating" : 1
+      }, {
+        "attractionId" : "408",
+        "rating" : 1
+      }, {
+        "attractionId" : "409",
+        "rating" : 1
+      }, {
+        "attractionId" : "410",
+        "rating" : 1
+      }, {
+        "attractionId" : "412",
+        "rating" : 1
+      }, {
+        "attractionId" : "413",
+        "rating" : 1
+      }, {
+        "attractionId" : "419",
+        "rating" : 1
+      }, {
+        "attractionId" : "450",
+        "rating" : 1
+      }, {
+        "attractionId" : "463",
+        "rating" : 1
+      }, {
+        "attractionId" : "485",
+        "rating" : 1
+      }, {
+        "attractionId" : "487",
+        "rating" : 1
+      }, {
+        "attractionId" : "489",
+        "rating" : 1
+      }, {
+        "attractionId" : "495",
+        "rating" : 1
+      }, {
+        "attractionId" : "502",
+        "rating" : 1
+      }, {
+        "attractionId" : "506",
+        "rating" : 1
+      }, {
+        "attractionId" : "507",
+        "rating" : 1
+      }, {
+        "attractionId" : "508",
+        "rating" : 1
+      }, {
+        "attractionId" : "509",
+        "rating" : 1
+      }, {
+        "attractionId" : "511",
+        "rating" : 1
+      }, {
+        "attractionId" : "522",
+        "rating" : 1
+      }, {
+        "attractionId" : "521",
+        "rating" : 1
+      }, {
+        "attractionId" : "524",
+        "rating" : 1
+      }, {
+        "attractionId" : "526",
+        "rating" : 1
+      }, {
+        "attractionId" : "535",
+        "rating" : 1
+      }, {
+        "attractionId" : "547",
+        "rating" : 1
+      }, {
+        "attractionId" : "548",
+        "rating" : 1
+      }, {
+        "attractionId" : "549",
+        "rating" : 1
+      }, {
+        "attractionId" : "550",
+        "rating" : 1
+      }, {
+        "attractionId" : "561",
+        "rating" : 1
+      }, {
+        "attractionId" : "562",
+        "rating" : 1
+      }, {
+        "attractionId" : "566",
+        "rating" : 1
+      }, {
+        "attractionId" : "638",
+        "rating" : 1
+      }, {
+        "attractionId" : "639",
+        "rating" : 1
+      }, {
+        "attractionId" : "640",
+        "rating" : 1
+      }, {
+        "attractionId" : "641",
+        "rating" : 1
+      }, {
+        "attractionId" : "643",
+        "rating" : 1
+      }, {
+        "attractionId" : "644",
+        "rating" : 1
+      }, {
+        "attractionId" : "654",
+        "rating" : 1
+      }, {
+        "attractionId" : "656",
+        "rating" : 1
+      }, {
+        "attractionId" : "658",
+        "rating" : 1
+      }, {
+        "attractionId" : "659",
+        "rating" : 1
+      }, {
+        "attractionId" : "663",
+        "rating" : 1
+      }, {
+        "attractionId" : "668",
+        "rating" : 1
+      }, {
+        "attractionId" : "675",
+        "rating" : 1
+      }, {
+        "attractionId" : "677",
+        "rating" : 1
+      }, {
+        "attractionId" : "683",
+        "rating" : 1
+      }, {
+        "attractionId" : "691",
+        "rating" : 1
+      }, {
+        "attractionId" : "719",
+        "rating" : 1
+      }, {
+        "attractionId" : "720",
+        "rating" : 1
+      }, {
+        "attractionId" : "727",
+        "rating" : 1
+      }, {
+        "attractionId" : "756",
+        "rating" : 1
+      }, {
+        "attractionId" : "758",
+        "rating" : 1
+      }, {
+        "attractionId" : "804",
+        "rating" : 1
+      }, {
+        "attractionId" : "843",
+        "rating" : 1
+      }, {
+        "attractionId" : "844",
+        "rating" : 1
+      }, {
+        "attractionId" : "901",
+        "rating" : 1
+      }, {
+        "attractionId" : "903",
+        "rating" : 1
+      }, {
+        "attractionId" : "943",
+        "rating" : 1
+      }, {
+        "attractionId" : "947",
+        "rating" : 1
+      }, {
+        "attractionId" : "948",
+        "rating" : 1
+      }, {
+        "attractionId" : "957",
+        "rating" : 1
+      }, {
+        "attractionId" : "966",
+        "rating" : 1
+      }, {
+        "attractionId" : "1053",
+        "rating" : 1
+      }, {
+        "attractionId" : "1054",
+        "rating" : 1
+      }, {
+        "attractionId" : "1057",
+        "rating" : 1
+      }, {
+        "attractionId" : "1059",
+        "rating" : 1
+      }, {
+        "attractionId" : "1060",
+        "rating" : 1
+      }, {
+        "attractionId" : "1061",
+        "rating" : 1
+      }, {
+        "attractionId" : "1066",
+        "rating" : 1
+      }, {
+        "attractionId" : "1067",
+        "rating" : 1
+      }, {
+        "attractionId" : "1068",
+        "rating" : 1
+      }, {
+        "attractionId" : "1069",
+        "rating" : 1
+      }, {
+        "attractionId" : "1070",
+        "rating" : 1
+      }, {
+        "attractionId" : "1071",
+        "rating" : 1
+      }, {
+        "attractionId" : "1072",
+        "rating" : 1
+      }, {
+        "attractionId" : "1081",
+        "rating" : 1
+      }, {
+        "attractionId" : "1101",
+        "rating" : 1
+      }, {
+        "attractionId" : "1106",
+        "rating" : 1
+      }, {
+        "attractionId" : "1130",
+        "rating" : 1
+      }, {
+        "attractionId" : "1131",
+        "rating" : 1
+      }, {
+        "attractionId" : "1141",
+        "rating" : 1
+      }, {
+        "attractionId" : "1159",
+        "rating" : 1
+      }, {
+        "attractionId" : "1172",
+        "rating" : 1
+      }, {
+        "attractionId" : "1189",
+        "rating" : 1
+      }, {
+        "attractionId" : "1228",
+        "rating" : 1
+      }, {
+        "attractionId" : "1231",
+        "rating" : 1
+      } ],
+      "userName" : "mami"
+    },
+    "-LZnG7PTrb7nkpSeSdCo" : {
+      "location" : {
+        "latitude" : 44.4133956,
+        "longitude" : 26.0267385
+      },
+      "scores" : [ {
+        "attractionId" : "30",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "31",
+        "rating" : 1
+      }, {
+        "attractionId" : "175",
+        "rating" : 1
+      }, {
+        "attractionId" : "179",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "187",
+        "rating" : 1
+      }, {
+        "attractionId" : "196",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "197",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "199",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "202",
+        "rating" : 1
+      }, {
+        "attractionId" : "1101",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "1103",
+        "rating" : 1
+      }, {
+        "attractionId" : "1064",
+        "rating" : 1
+      }, {
+        "attractionId" : "1070",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "1071",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "1072",
+        "rating" : 1
+      } ],
+      "userName" : "ekovacs"
+    },
+    "-LZnWkbL3krkoLBclEJB" : {
+      "scores" : [ {
+        "attractionId" : "237",
+        "rating" : 1
+      }, {
+        "attractionId" : "236",
+        "rating" : 1
+      }, {
+        "attractionId" : "238",
+        "rating" : 1
+      }, {
+        "attractionId" : "239",
+        "rating" : 1
+      }, {
+        "attractionId" : "240",
+        "rating" : 1
+      }, {
+        "attractionId" : "242",
+        "rating" : 1
+      }, {
+        "attractionId" : "243",
+        "rating" : 1
+      }, {
+        "attractionId" : "233",
+        "rating" : 1
+      }, {
+        "attractionId" : "245",
+        "rating" : 1
+      }, {
+        "attractionId" : "244",
+        "rating" : 1
+      }, {
+        "attractionId" : "246",
+        "rating" : 1
+      }, {
+        "attractionId" : "454",
+        "rating" : 1
+      }, {
+        "attractionId" : "453",
+        "rating" : 1
+      }, {
+        "attractionId" : "452",
+        "rating" : 1
+      }, {
+        "attractionId" : "451",
+        "rating" : 1
+      } ],
+      "userName" : "Eduard-Iordache"
+    },
+    "-LZnY0rqdE0IEPBf3qwu" : {
+      "scores" : [ {
+        "attractionId" : "954",
+        "rating" : 1
+      }, {
+        "attractionId" : "1011",
+        "rating" : 1
+      }, {
+        "attractionId" : "1013",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "992",
+        "rating" : 1
+      }, {
+        "attractionId" : "175",
+        "rating" : 1
+      }, {
+        "attractionId" : "187",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "450",
+        "rating" : 1
+      }, {
+        "attractionId" : "948",
+        "rating" : 1
+      }, {
+        "attractionId" : "925",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "924",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "6",
+        "rating" : 1
+      }, {
+        "attractionId" : "4",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "259",
+        "rating" : 1
+      }, {
+        "attractionId" : "12",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "56",
+        "rating" : 1
+      } ],
+      "userName" : "Alexandra"
+    },
+    "-LZnYLg1swDNRY2RgLr6" : {
+      "location" : {
+        "latitude" : 44.48622933999999,
+        "longitude" : 26.12301932999999
+      },
+      "scores" : [ {
+        "attractionId" : "15",
+        "rating" : 1
+      }, {
+        "attractionId" : "54",
+        "rating" : 1
+      }, {
+        "attractionId" : "55",
+        "rating" : 1
+      }, {
+        "attractionId" : "56",
+        "rating" : 1
+      }, {
+        "attractionId" : "58",
+        "rating" : 1
+      }, {
+        "attractionId" : "62",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "73",
+        "rating" : 1
+      }, {
+        "attractionId" : "142",
+        "rating" : 1
+      }, {
+        "attractionId" : "146",
+        "rating" : 1
+      }, {
+        "attractionId" : "208",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "229",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "230",
+        "rating" : 1
+      }, {
+        "attractionId" : "231",
+        "rating" : 1
+      }, {
+        "attractionId" : "715",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "714",
+        "rating" : 0.6
+      } ],
+      "userName" : "Alice"
+    },
+    "-LZnYiSJ9oM6KkvmoPui" : {
+      "scores" : [ {
+        "attractionId" : "11",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "8",
+        "rating" : 0.2
+      }, {
+        "attractionId" : "4",
+        "rating" : 0.2
+      }, {
+        "attractionId" : "1",
+        "rating" : 0.2
+      }, {
+        "attractionId" : "24",
+        "rating" : 0.2
+      }, {
+        "attractionId" : "28",
+        "rating" : 0.2
+      }, {
+        "attractionId" : "31",
+        "rating" : 0.2
+      }, {
+        "attractionId" : "42",
+        "rating" : 0.2
+      }, {
+        "attractionId" : "51",
+        "rating" : 0.2
+      }, {
+        "attractionId" : "50",
+        "rating" : 0.2
+      }, {
+        "attractionId" : "56",
+        "rating" : 0.2
+      }, {
+        "attractionId" : "64",
+        "rating" : 0.2
+      }, {
+        "attractionId" : "66",
+        "rating" : 0.2
+      }, {
+        "attractionId" : "68",
+        "rating" : 0.2
+      }, {
+        "attractionId" : "69",
+        "rating" : 0.2
+      } ],
+      "userName" : "Bogdan"
+    },
+    "-LZnZr6OYhJByuuYDH9l" : {
+      "scores" : [ {
+        "attractionId" : "15",
+        "rating" : 1
+      }, {
+        "attractionId" : "54",
+        "rating" : 1
+      }, {
+        "attractionId" : "56",
+        "rating" : 1
+      }, {
+        "attractionId" : "64",
+        "rating" : 1
+      }, {
+        "attractionId" : "65",
+        "rating" : 1
+      }, {
+        "attractionId" : "69",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "73",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "176",
+        "rating" : 1
+      }, {
+        "attractionId" : "186",
+        "rating" : 1
+      }, {
+        "attractionId" : "187",
+        "rating" : 1
+      }, {
+        "attractionId" : "192",
+        "rating" : 1
+      }, {
+        "attractionId" : "201",
+        "rating" : 1
+      }, {
+        "attractionId" : "210",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "260",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "261",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "413",
+        "rating" : 1
+      }, {
+        "attractionId" : "473",
+        "rating" : 1
+      } ],
+      "userName" : "daia-florentina"
+    },
+    "-LZnacHQhkjO_F19y1AR" : {
+      "location" : {
+        "latitude" : 44.41771141304223,
+        "longitude" : 26.035486881692016
+      },
+      "scores" : [ {
+        "attractionId" : "1",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "2",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "3",
+        "rating" : 1
+      }, {
+        "attractionId" : "7",
+        "rating" : 1
+      }, {
+        "attractionId" : "27",
+        "rating" : 1
+      }, {
+        "attractionId" : "61",
+        "rating" : 1
+      }, {
+        "attractionId" : "79",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "83",
+        "rating" : 1
+      }, {
+        "attractionId" : "112",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "115",
+        "rating" : 1
+      }, {
+        "attractionId" : "119",
+        "rating" : 1
+      }, {
+        "attractionId" : "120",
+        "rating" : 1
+      }, {
+        "attractionId" : "350",
+        "rating" : 1
+      }, {
+        "attractionId" : "351",
+        "rating" : 1
+      }, {
+        "attractionId" : "368",
+        "rating" : 1
+      }, {
+        "attractionId" : "379",
+        "rating" : 1
+      }, {
+        "attractionId" : "399",
+        "rating" : 1
+      }, {
+        "attractionId" : "896",
+        "rating" : 1
+      }, {
+        "attractionId" : "897",
+        "rating" : 1
+      }, {
+        "attractionId" : "966",
+        "rating" : 1
+      } ],
+      "userName" : "Nananana"
+    },
+    "-LZnb9csG1OZUreo4uPM" : {
+      "scores" : [ {
+        "attractionId" : "1054",
+        "rating" : 1
+      }, {
+        "attractionId" : "1057",
+        "rating" : 1
+      }, {
+        "attractionId" : "175",
+        "rating" : 1
+      }, {
+        "attractionId" : "235",
+        "rating" : 1
+      }, {
+        "attractionId" : "450",
+        "rating" : 1
+      }, {
+        "attractionId" : "463",
+        "rating" : 1
+      }, {
+        "attractionId" : "668",
+        "rating" : 1
+      }, {
+        "attractionId" : "73",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "192",
+        "rating" : 1
+      }, {
+        "attractionId" : "190",
+        "rating" : 1
+      }, {
+        "attractionId" : "221",
+        "rating" : 1
+      }, {
+        "attractionId" : "3",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "120",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "354",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "351",
+        "rating" : 0.8
+      } ],
+      "userName" : "George"
+    },
+    "-LZo-vhNYohBSI1w4i86" : {
+      "scores" : [ {
+        "attractionId" : "5",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "6",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "14",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "45",
+        "rating" : 1
+      }, {
+        "attractionId" : "54",
+        "rating" : 1
+      }, {
+        "attractionId" : "55",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "56",
+        "rating" : 1
+      }, {
+        "attractionId" : "58",
+        "rating" : 1
+      }, {
+        "attractionId" : "59",
+        "rating" : 1
+      }, {
+        "attractionId" : "64",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "65",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "78",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "79",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "80",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "83",
+        "rating" : 1
+      }, {
+        "attractionId" : "264",
+        "rating" : 1
+      }, {
+        "attractionId" : "263",
+        "rating" : 1
+      }, {
+        "attractionId" : "429",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "433",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "486",
+        "rating" : 1
+      }, {
+        "attractionId" : "487",
+        "rating" : 1
+      }, {
+        "attractionId" : "488",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "489",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "490",
+        "rating" : 1
+      }, {
+        "attractionId" : "491",
+        "rating" : 1
+      } ],
+      "userName" : "CiolacuAndrei"
+    },
+    "-LZoFePpPVGsb90kYNFa" : {
+      "scores" : [ {
+        "attractionId" : "1",
+        "rating" : 1
+      }, {
+        "attractionId" : "2",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "4",
+        "rating" : 1
+      }, {
+        "attractionId" : "3",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "5",
+        "rating" : 1
+      }, {
+        "attractionId" : "6",
+        "rating" : 1
+      }, {
+        "attractionId" : "7",
+        "rating" : 1
+      }, {
+        "attractionId" : "8",
+        "rating" : 1
+      }, {
+        "attractionId" : "10",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "9",
+        "rating" : 1
+      }, {
+        "attractionId" : "12",
+        "rating" : 1
+      }, {
+        "attractionId" : "11",
+        "rating" : 1
+      }, {
+        "attractionId" : "14",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "13",
+        "rating" : 1
+      }, {
+        "attractionId" : "15",
+        "rating" : 1
+      }, {
+        "attractionId" : "16",
+        "rating" : 1
+      }, {
+        "attractionId" : "18",
+        "rating" : 1
+      }, {
+        "attractionId" : "17",
+        "rating" : 1
+      }, {
+        "attractionId" : "20",
+        "rating" : 1
+      }, {
+        "attractionId" : "21",
+        "rating" : 1
+      } ],
+      "userName" : "Flavia"
+    },
+    "-LZoFiM9SRT4kvC4fiQ5" : {
+      "location" : {
+        "latitude" : 44.4400771,
+        "longitude" : 26.1183588
+      },
+      "scores" : [ {
+        "attractionId" : "1",
+        "rating" : 1
+      }, {
+        "attractionId" : "2",
+        "rating" : 1
+      }, {
+        "attractionId" : "3",
+        "rating" : 1
+      }, {
+        "attractionId" : "4",
+        "rating" : 1
+      }, {
+        "attractionId" : "5",
+        "rating" : 1
+      }, {
+        "attractionId" : "6",
+        "rating" : 1
+      }, {
+        "attractionId" : "7",
+        "rating" : 1
+      }, {
+        "attractionId" : "8",
+        "rating" : 1
+      }, {
+        "attractionId" : "9",
+        "rating" : 1
+      }, {
+        "attractionId" : "10",
+        "rating" : 1
+      }, {
+        "attractionId" : "11",
+        "rating" : 1
+      }, {
+        "attractionId" : "12",
+        "rating" : 1
+      }, {
+        "attractionId" : "13",
+        "rating" : 1
+      }, {
+        "attractionId" : "14",
+        "rating" : 1
+      }, {
+        "attractionId" : "15",
+        "rating" : 1
+      }, {
+        "attractionId" : "16",
+        "rating" : 1
+      }, {
+        "attractionId" : "17",
+        "rating" : 1
+      }, {
+        "attractionId" : "18",
+        "rating" : 1
+      }, {
+        "attractionId" : "19",
+        "rating" : 1
+      }, {
+        "attractionId" : "258",
+        "rating" : 1
+      }, {
+        "attractionId" : "281",
+        "rating" : 1
+      }, {
+        "attractionId" : "311",
+        "rating" : 1
+      }, {
+        "attractionId" : "312",
+        "rating" : 1
+      } ],
+      "userName" : "Ana"
+    },
+    "-LZoFibZisZm9esIjPT6" : {
+      "location" : {
+        "latitude" : 44.4400771,
+        "longitude" : 26.1183588
+      },
+      "scores" : [ {
+        "attractionId" : "1",
+        "rating" : 1
+      }, {
+        "attractionId" : "2",
+        "rating" : 1
+      }, {
+        "attractionId" : "3",
+        "rating" : 1
+      }, {
+        "attractionId" : "4",
+        "rating" : 1
+      }, {
+        "attractionId" : "5",
+        "rating" : 1
+      }, {
+        "attractionId" : "6",
+        "rating" : 1
+      }, {
+        "attractionId" : "7",
+        "rating" : 1
+      }, {
+        "attractionId" : "8",
+        "rating" : 1
+      }, {
+        "attractionId" : "9",
+        "rating" : 1
+      }, {
+        "attractionId" : "10",
+        "rating" : 1
+      }, {
+        "attractionId" : "11",
+        "rating" : 1
+      }, {
+        "attractionId" : "12",
+        "rating" : 1
+      }, {
+        "attractionId" : "13",
+        "rating" : 1
+      }, {
+        "attractionId" : "14",
+        "rating" : 1
+      }, {
+        "attractionId" : "15",
+        "rating" : 1
+      }, {
+        "attractionId" : "16",
+        "rating" : 1
+      }, {
+        "attractionId" : "17",
+        "rating" : 1
+      }, {
+        "attractionId" : "18",
+        "rating" : 1
+      }, {
+        "attractionId" : "19",
+        "rating" : 1
+      }, {
+        "attractionId" : "258",
+        "rating" : 1
+      }, {
+        "attractionId" : "281",
+        "rating" : 1
+      }, {
+        "attractionId" : "311",
+        "rating" : 1
+      }, {
+        "attractionId" : "312",
+        "rating" : 1
+      } ],
+      "userName" : "Ana"
+    },
+    "-LZoGi75TCQ3PVcZ0iYd" : {
+      "location" : {
+        "latitude" : 44.5033559,
+        "longitude" : 26.0602385
+      },
+      "scores" : [ {
+        "attractionId" : "4",
+        "rating" : 1
+      }, {
+        "attractionId" : "5",
+        "rating" : 1
+      }, {
+        "attractionId" : "14",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "15",
+        "rating" : 1
+      }, {
+        "attractionId" : "31",
+        "rating" : 1
+      }, {
+        "attractionId" : "38",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "53",
+        "rating" : 1
+      }, {
+        "attractionId" : "56",
+        "rating" : 1
+      }, {
+        "attractionId" : "66",
+        "rating" : 1
+      }, {
+        "attractionId" : "73",
+        "rating" : 1
+      }, {
+        "attractionId" : "81",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "134",
+        "rating" : 1
+      }, {
+        "attractionId" : "142",
+        "rating" : 1
+      }, {
+        "attractionId" : "151",
+        "rating" : 1
+      }, {
+        "attractionId" : "152",
+        "rating" : 1
+      }, {
+        "attractionId" : "153",
+        "rating" : 1
+      }, {
+        "attractionId" : "154",
+        "rating" : 1
+      } ],
+      "userName" : "Mark"
+    },
+    "-LZoI1C4xmTWXkl3GZ0H" : {
+      "location" : {
+        "latitude" : 44.455092833672154,
+        "longitude" : 26.145339141677546
+      },
+      "scores" : [ {
+        "attractionId" : "4",
+        "rating" : 1
+      }, {
+        "attractionId" : "5",
+        "rating" : 1
+      }, {
+        "attractionId" : "15",
+        "rating" : 1
+      }, {
+        "attractionId" : "54",
+        "rating" : 1
+      }, {
+        "attractionId" : "56",
+        "rating" : 1
+      }, {
+        "attractionId" : "60",
+        "rating" : 1
+      }, {
+        "attractionId" : "63",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "83",
+        "rating" : 1
+      }, {
+        "attractionId" : "122",
+        "rating" : 1
+      }, {
+        "attractionId" : "135",
+        "rating" : 1
+      }, {
+        "attractionId" : "136",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "137",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "140",
+        "rating" : 1
+      }, {
+        "attractionId" : "141",
+        "rating" : 1
+      }, {
+        "attractionId" : "142",
+        "rating" : 1
+      }, {
+        "attractionId" : "144",
+        "rating" : 1
+      }, {
+        "attractionId" : "151",
+        "rating" : 1
+      }, {
+        "attractionId" : "150",
+        "rating" : 1
+      }, {
+        "attractionId" : "152",
+        "rating" : 1
+      }, {
+        "attractionId" : "153",
+        "rating" : 0.6
+      } ],
+      "userName" : "Anamaria"
+    },
+    "-LZoI1EAy4fUakwKrUe4" : {
+      "location" : {
+        "latitude" : 44.455092833672154,
+        "longitude" : 26.145339141677546
+      },
+      "scores" : [ {
+        "attractionId" : "4",
+        "rating" : 1
+      }, {
+        "attractionId" : "5",
+        "rating" : 1
+      }, {
+        "attractionId" : "15",
+        "rating" : 1
+      }, {
+        "attractionId" : "54",
+        "rating" : 1
+      }, {
+        "attractionId" : "56",
+        "rating" : 1
+      }, {
+        "attractionId" : "60",
+        "rating" : 1
+      }, {
+        "attractionId" : "63",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "83",
+        "rating" : 1
+      }, {
+        "attractionId" : "122",
+        "rating" : 1
+      }, {
+        "attractionId" : "135",
+        "rating" : 1
+      }, {
+        "attractionId" : "136",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "137",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "140",
+        "rating" : 1
+      }, {
+        "attractionId" : "141",
+        "rating" : 1
+      }, {
+        "attractionId" : "142",
+        "rating" : 1
+      }, {
+        "attractionId" : "144",
+        "rating" : 1
+      }, {
+        "attractionId" : "151",
+        "rating" : 1
+      }, {
+        "attractionId" : "150",
+        "rating" : 1
+      }, {
+        "attractionId" : "152",
+        "rating" : 1
+      }, {
+        "attractionId" : "153",
+        "rating" : 0.6
+      } ],
+      "userName" : "Anamaria"
+    },
+    "-LZoI1EEDyu2VPieTZfZ" : {
+      "location" : {
+        "latitude" : 44.455092833672154,
+        "longitude" : 26.145339141677546
+      },
+      "scores" : [ {
+        "attractionId" : "4",
+        "rating" : 1
+      }, {
+        "attractionId" : "5",
+        "rating" : 1
+      }, {
+        "attractionId" : "15",
+        "rating" : 1
+      }, {
+        "attractionId" : "54",
+        "rating" : 1
+      }, {
+        "attractionId" : "56",
+        "rating" : 1
+      }, {
+        "attractionId" : "60",
+        "rating" : 1
+      }, {
+        "attractionId" : "63",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "83",
+        "rating" : 1
+      }, {
+        "attractionId" : "122",
+        "rating" : 1
+      }, {
+        "attractionId" : "135",
+        "rating" : 1
+      }, {
+        "attractionId" : "136",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "137",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "140",
+        "rating" : 1
+      }, {
+        "attractionId" : "141",
+        "rating" : 1
+      }, {
+        "attractionId" : "142",
+        "rating" : 1
+      }, {
+        "attractionId" : "144",
+        "rating" : 1
+      }, {
+        "attractionId" : "151",
+        "rating" : 1
+      }, {
+        "attractionId" : "150",
+        "rating" : 1
+      }, {
+        "attractionId" : "152",
+        "rating" : 1
+      }, {
+        "attractionId" : "153",
+        "rating" : 0.6
+      } ],
+      "userName" : "Anamaria"
+    },
+    "-LZoM1wC2US0dqJitYip" : {
+      "location" : {
+        "latitude" : 44.4399414857898,
+        "longitude" : 26.11867310939215
+      },
+      "scores" : [ {
+        "attractionId" : "4",
+        "rating" : 1
+      }, {
+        "attractionId" : "5",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "6",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "14",
+        "rating" : 1
+      }, {
+        "attractionId" : "15",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "22",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "41",
+        "rating" : 1
+      }, {
+        "attractionId" : "42",
+        "rating" : 1
+      }, {
+        "attractionId" : "45",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "59",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "58",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "60",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "64",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "65",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "66",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "67",
+        "rating" : 0.8
+      } ],
+      "userName" : "Ana"
+    },
+    "-LZoPtys_p98h8kjH95F" : {
+      "scores" : [ {
+        "attractionId" : "175",
+        "rating" : 1
+      }, {
+        "attractionId" : "197",
+        "rating" : 1
+      }, {
+        "attractionId" : "196",
+        "rating" : 1
+      }, {
+        "attractionId" : "179",
+        "rating" : 1
+      }, {
+        "attractionId" : "187",
+        "rating" : 1
+      }, {
+        "attractionId" : "450",
+        "rating" : 1
+      }, {
+        "attractionId" : "705",
+        "rating" : 1
+      }, {
+        "attractionId" : "108",
+        "rating" : 1
+      }, {
+        "attractionId" : "565",
+        "rating" : 1
+      }, {
+        "attractionId" : "48",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "47",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "49",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "45",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "44",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "43",
+        "rating" : 1
+      }, {
+        "attractionId" : "40",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "55",
+        "rating" : 1
+      }, {
+        "attractionId" : "56",
+        "rating" : 1
+      }, {
+        "attractionId" : "53",
+        "rating" : 1
+      }, {
+        "attractionId" : "52",
+        "rating" : 0.4
+      } ],
+      "userName" : "Teodora"
+    },
+    "-LZoQMZKqzHpaDTWrJeL" : {
+      "scores" : [ {
+        "attractionId" : "1",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "3",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "5",
+        "rating" : 1
+      }, {
+        "attractionId" : "6",
+        "rating" : 1
+      }, {
+        "attractionId" : "8",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "31",
+        "rating" : 1
+      }, {
+        "attractionId" : "56",
+        "rating" : 1
+      }, {
+        "attractionId" : "59",
+        "rating" : 1
+      }, {
+        "attractionId" : "60",
+        "rating" : 1
+      }, {
+        "attractionId" : "64",
+        "rating" : 1
+      }, {
+        "attractionId" : "128",
+        "rating" : 1
+      }, {
+        "attractionId" : "125",
+        "rating" : 1
+      }, {
+        "attractionId" : "126",
+        "rating" : 1
+      }, {
+        "attractionId" : "142",
+        "rating" : 1
+      }, {
+        "attractionId" : "141",
+        "rating" : 1
+      }, {
+        "attractionId" : "151",
+        "rating" : 1
+      }, {
+        "attractionId" : "152",
+        "rating" : 1
+      }, {
+        "attractionId" : "153",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "154",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "187",
+        "rating" : 1
+      }, {
+        "attractionId" : "208",
+        "rating" : 1
+      } ],
+      "userName" : "Ioana"
+    },
+    "-LZoerxl_NFmyRk3KdSR" : {
+      "location" : {
+        "latitude" : 44.4133956,
+        "longitude" : 26.0267385
+      },
+      "scores" : [ {
+        "attractionId" : "208",
+        "rating" : 1
+      }, {
+        "attractionId" : "956",
+        "rating" : 1
+      }, {
+        "attractionId" : "957",
+        "rating" : 1
+      }, {
+        "attractionId" : "958",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "960",
+        "rating" : 1
+      }, {
+        "attractionId" : "961",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "962",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "963",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "967",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "969",
+        "rating" : 1
+      }, {
+        "attractionId" : "579",
+        "rating" : 1
+      }, {
+        "attractionId" : "566",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "20",
+        "rating" : 1
+      }, {
+        "attractionId" : "58",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "1064",
+        "rating" : 1
+      }, {
+        "attractionId" : "1070",
+        "rating" : 1
+      }, {
+        "attractionId" : "1072",
+        "rating" : 1
+      }, {
+        "attractionId" : "1071",
+        "rating" : 1
+      }, {
+        "attractionId" : "1069",
+        "rating" : 1
+      }, {
+        "attractionId" : "229",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "690",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "767",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "713",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "698",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "177",
+        "rating" : 0.2
+      } ],
+      "userName" : "ilie-nicolae-bolovan"
+    },
+    "-LZofXSSOtk3TI2m8cIZ" : {
+      "scores" : [ {
+        "attractionId" : "1",
+        "rating" : 1
+      }, {
+        "attractionId" : "4",
+        "rating" : 1
+      }, {
+        "attractionId" : "5",
+        "rating" : 1
+      }, {
+        "attractionId" : "14",
+        "rating" : 1
+      }, {
+        "attractionId" : "31",
+        "rating" : 1
+      }, {
+        "attractionId" : "35",
+        "rating" : 1
+      }, {
+        "attractionId" : "36",
+        "rating" : 1
+      }, {
+        "attractionId" : "38",
+        "rating" : 1
+      }, {
+        "attractionId" : "135",
+        "rating" : 1
+      }, {
+        "attractionId" : "136",
+        "rating" : 1
+      }, {
+        "attractionId" : "141",
+        "rating" : 1
+      }, {
+        "attractionId" : "146",
+        "rating" : 1
+      }, {
+        "attractionId" : "175",
+        "rating" : 1
+      }, {
+        "attractionId" : "176",
+        "rating" : 1
+      }, {
+        "attractionId" : "186",
+        "rating" : 1
+      }, {
+        "attractionId" : "454",
+        "rating" : 1
+      }, {
+        "attractionId" : "724",
+        "rating" : 1
+      }, {
+        "attractionId" : "725",
+        "rating" : 1
+      }, {
+        "attractionId" : "728",
+        "rating" : 1
+      }, {
+        "attractionId" : "947",
+        "rating" : 1
+      }, {
+        "attractionId" : "949",
+        "rating" : 1
+      }, {
+        "attractionId" : "950",
+        "rating" : 1
+      }, {
+        "attractionId" : "1101",
+        "rating" : 1
+      }, {
+        "attractionId" : "1113",
+        "rating" : 1
+      }, {
+        "attractionId" : "1112",
+        "rating" : 1
+      }, {
+        "attractionId" : "1115",
+        "rating" : 1
+      }, {
+        "attractionId" : "1126",
+        "rating" : 1
+      } ],
+      "userName" : "babi"
+    },
+    "-LZofp9GqLvaqZY9Ys0f" : {
+      "scores" : [ {
+        "attractionId" : "3",
+        "rating" : 1
+      }, {
+        "attractionId" : "15",
+        "rating" : 1
+      }, {
+        "attractionId" : "14",
+        "rating" : 1
+      }, {
+        "attractionId" : "13",
+        "rating" : 1
+      }, {
+        "attractionId" : "12",
+        "rating" : 1
+      }, {
+        "attractionId" : "11",
+        "rating" : 1
+      }, {
+        "attractionId" : "10",
+        "rating" : 1
+      }, {
+        "attractionId" : "9",
+        "rating" : 1
+      }, {
+        "attractionId" : "8",
+        "rating" : 1
+      }, {
+        "attractionId" : "7",
+        "rating" : 1
+      }, {
+        "attractionId" : "6",
+        "rating" : 1
+      }, {
+        "attractionId" : "4",
+        "rating" : 1
+      }, {
+        "attractionId" : "5",
+        "rating" : 1
+      }, {
+        "attractionId" : "1",
+        "rating" : 1
+      }, {
+        "attractionId" : "2",
+        "rating" : 1
+      }, {
+        "attractionId" : "20",
+        "rating" : 1
+      }, {
+        "attractionId" : "21",
+        "rating" : 1
+      }, {
+        "attractionId" : "22",
+        "rating" : 1
+      }, {
+        "attractionId" : "25",
+        "rating" : 1
+      }, {
+        "attractionId" : "26",
+        "rating" : 1
+      }, {
+        "attractionId" : "27",
+        "rating" : 1
+      }, {
+        "attractionId" : "28",
+        "rating" : 1
+      }, {
+        "attractionId" : "29",
+        "rating" : 1
+      }, {
+        "attractionId" : "30",
+        "rating" : 1
+      }, {
+        "attractionId" : "31",
+        "rating" : 1
+      } ],
+      "userName" : "Timi"
+    },
+    "-LZoptys_p98h8kjH54F" : {
+      "scores" : [ {
+        "attractionId" : "15",
+        "rating" : 1
+      }, {
+        "attractionId" : "16",
+        "rating" : 1
+      }, {
+        "attractionId" : "31",
+        "rating" : 1
+      }, {
+        "attractionId" : "34",
+        "rating" : 1
+      }, {
+        "attractionId" : "35",
+        "rating" : 1
+      }, {
+        "attractionId" : "36",
+        "rating" : 1
+      }, {
+        "attractionId" : "38",
+        "rating" : 1
+      }, {
+        "attractionId" : "56",
+        "rating" : 1
+      }, {
+        "attractionId" : "66",
+        "rating" : 1
+      }, {
+        "attractionId" : "135",
+        "rating" : 1
+      }, {
+        "attractionId" : "142",
+        "rating" : 1
+      }, {
+        "attractionId" : "146",
+        "rating" : 1
+      }, {
+        "attractionId" : "147",
+        "rating" : 1
+      }, {
+        "attractionId" : "148",
+        "rating" : 1
+      }, {
+        "attractionId" : "149",
+        "rating" : 1
+      }, {
+        "attractionId" : "151",
+        "rating" : 1
+      }, {
+        "attractionId" : "152",
+        "rating" : 1
+      }, {
+        "attractionId" : "153",
+        "rating" : 1
+      }, {
+        "attractionId" : "154",
+        "rating" : 1
+      }, {
+        "attractionId" : "169",
+        "rating" : 1
+      }, {
+        "attractionId" : "176",
+        "rating" : 1
+      }, {
+        "attractionId" : "175",
+        "rating" : 1
+      }, {
+        "attractionId" : "186",
+        "rating" : 1
+      }, {
+        "attractionId" : "187",
+        "rating" : 1
+      }, {
+        "attractionId" : "208",
+        "rating" : 1
+      }, {
+        "attractionId" : "230",
+        "rating" : 1
+      }, {
+        "attractionId" : "231",
+        "rating" : 1
+      }, {
+        "attractionId" : "235",
+        "rating" : 1
+      }, {
+        "attractionId" : "264",
+        "rating" : 1
+      }, {
+        "attractionId" : "263",
+        "rating" : 1
+      }, {
+        "attractionId" : "262",
+        "rating" : 1
+      }, {
+        "attractionId" : "284",
+        "rating" : 1
+      }, {
+        "attractionId" : "333",
+        "rating" : 1
+      }, {
+        "attractionId" : "334",
+        "rating" : 1
+      }, {
+        "attractionId" : "336",
+        "rating" : 1
+      }, {
+        "attractionId" : "335",
+        "rating" : 1
+      }, {
+        "attractionId" : "353",
+        "rating" : 1
+      }, {
+        "attractionId" : "354",
+        "rating" : 1
+      }, {
+        "attractionId" : "355",
+        "rating" : 1
+      }, {
+        "attractionId" : "357",
+        "rating" : 1
+      }, {
+        "attractionId" : "391",
+        "rating" : 1
+      }, {
+        "attractionId" : "406",
+        "rating" : 1
+      }, {
+        "attractionId" : "407",
+        "rating" : 1
+      }, {
+        "attractionId" : "409",
+        "rating" : 1
+      }, {
+        "attractionId" : "410",
+        "rating" : 1
+      }, {
+        "attractionId" : "412",
+        "rating" : 1
+      }, {
+        "attractionId" : "413",
+        "rating" : 1
+      }, {
+        "attractionId" : "463",
+        "rating" : 1
+      }, {
+        "attractionId" : "487",
+        "rating" : 1
+      }, {
+        "attractionId" : "489",
+        "rating" : 1
+      }, {
+        "attractionId" : "495",
+        "rating" : 1
+      }, {
+        "attractionId" : "496",
+        "rating" : 1
+      }, {
+        "attractionId" : "497",
+        "rating" : 1
+      }, {
+        "attractionId" : "506",
+        "rating" : 1
+      }, {
+        "attractionId" : "522",
+        "rating" : 1
+      }, {
+        "attractionId" : "524",
+        "rating" : 1
+      }, {
+        "attractionId" : "535",
+        "rating" : 1
+      }, {
+        "attractionId" : "548",
+        "rating" : 1
+      }, {
+        "attractionId" : "549",
+        "rating" : 1
+      }, {
+        "attractionId" : "550",
+        "rating" : 1
+      }, {
+        "attractionId" : "562",
+        "rating" : 1
+      }, {
+        "attractionId" : "566",
+        "rating" : 1
+      }, {
+        "attractionId" : "565",
+        "rating" : 1
+      }, {
+        "attractionId" : "579",
+        "rating" : 1
+      }, {
+        "attractionId" : "643",
+        "rating" : 1
+      }, {
+        "attractionId" : "644",
+        "rating" : 1
+      }, {
+        "attractionId" : "675",
+        "rating" : 1
+      }, {
+        "attractionId" : "676",
+        "rating" : 1
+      }, {
+        "attractionId" : "677",
+        "rating" : 1
+      }, {
+        "attractionId" : "683",
+        "rating" : 1
+      }, {
+        "attractionId" : "711",
+        "rating" : 1
+      }, {
+        "attractionId" : "714",
+        "rating" : 1
+      }, {
+        "attractionId" : "718",
+        "rating" : 1
+      }, {
+        "attractionId" : "719",
+        "rating" : 1
+      }, {
+        "attractionId" : "720",
+        "rating" : 1
+      }, {
+        "attractionId" : "721",
+        "rating" : 1
+      }, {
+        "attractionId" : "724",
+        "rating" : 1
+      }, {
+        "attractionId" : "727",
+        "rating" : 1
+      }, {
+        "attractionId" : "728",
+        "rating" : 1
+      }, {
+        "attractionId" : "743",
+        "rating" : 1
+      }, {
+        "attractionId" : "746",
+        "rating" : 1
+      }, {
+        "attractionId" : "747",
+        "rating" : 1
+      }, {
+        "attractionId" : "748",
+        "rating" : 1
+      }, {
+        "attractionId" : "756",
+        "rating" : 1
+      }, {
+        "attractionId" : "804",
+        "rating" : 1
+      }, {
+        "attractionId" : "815",
+        "rating" : 1
+      }, {
+        "attractionId" : "820",
+        "rating" : 1
+      }, {
+        "attractionId" : "839",
+        "rating" : 1
+      }, {
+        "attractionId" : "840",
+        "rating" : 1
+      }, {
+        "attractionId" : "843",
+        "rating" : 1
+      }, {
+        "attractionId" : "844",
+        "rating" : 1
+      }, {
+        "attractionId" : "863",
+        "rating" : 1
+      }, {
+        "attractionId" : "864",
+        "rating" : 1
+      }, {
+        "attractionId" : "865",
+        "rating" : 1
+      }, {
+        "attractionId" : "866",
+        "rating" : 1
+      }, {
+        "attractionId" : "867",
+        "rating" : 1
+      }, {
+        "attractionId" : "868",
+        "rating" : 1
+      }, {
+        "attractionId" : "869",
+        "rating" : 1
+      }, {
+        "attractionId" : "870",
+        "rating" : 1
+      }, {
+        "attractionId" : "900",
+        "rating" : 1
+      }, {
+        "attractionId" : "901",
+        "rating" : 1
+      }, {
+        "attractionId" : "903",
+        "rating" : 1
+      }, {
+        "attractionId" : "921",
+        "rating" : 1
+      }, {
+        "attractionId" : "949",
+        "rating" : 1
+      }, {
+        "attractionId" : "955",
+        "rating" : 1
+      }, {
+        "attractionId" : "956",
+        "rating" : 1
+      }, {
+        "attractionId" : "957",
+        "rating" : 1
+      }, {
+        "attractionId" : "960",
+        "rating" : 1
+      }, {
+        "attractionId" : "966",
+        "rating" : 1
+      }, {
+        "attractionId" : "969",
+        "rating" : 1
+      }, {
+        "attractionId" : "1053",
+        "rating" : 1
+      }, {
+        "attractionId" : "1054",
+        "rating" : 1
+      }, {
+        "attractionId" : "1057",
+        "rating" : 1
+      }, {
+        "attractionId" : "1059",
+        "rating" : 1
+      }, {
+        "attractionId" : "1060",
+        "rating" : 1
+      }, {
+        "attractionId" : "1061",
+        "rating" : 1
+      }, {
+        "attractionId" : "1066",
+        "rating" : 1
+      }, {
+        "attractionId" : "1067",
+        "rating" : 1
+      }, {
+        "attractionId" : "1068",
+        "rating" : 1
+      }, {
+        "attractionId" : "1069",
+        "rating" : 1
+      }, {
+        "attractionId" : "1070",
+        "rating" : 1
+      }, {
+        "attractionId" : "1071",
+        "rating" : 1
+      }, {
+        "attractionId" : "1072",
+        "rating" : 1
+      }, {
+        "attractionId" : "1099",
+        "rating" : 1
+      }, {
+        "attractionId" : "1101",
+        "rating" : 1
+      }, {
+        "attractionId" : "1130",
+        "rating" : 1
+      }, {
+        "attractionId" : "1131",
+        "rating" : 1
+      }, {
+        "attractionId" : "1134",
+        "rating" : 1
+      }, {
+        "attractionId" : "1139",
+        "rating" : 1
+      }, {
+        "attractionId" : "1141",
+        "rating" : 1
+      }, {
+        "attractionId" : "1159",
+        "rating" : 1
+      }, {
+        "attractionId" : "1171",
+        "rating" : 1
+      }, {
+        "attractionId" : "1172",
+        "rating" : 1
+      }, {
+        "attractionId" : "1219",
+        "rating" : 1
+      }, {
+        "attractionId" : "1230",
+        "rating" : 1
+      } ],
+      "userName" : "kovacs-andrea"
+    },
+    "-LZpgAWPH-SoymLCk3UV" : {
+      "scores" : [ {
+        "attractionId" : "153",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "154",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "198",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "194",
+        "rating" : 1
+      }, {
+        "attractionId" : "195",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "208",
+        "rating" : 1
+      }, {
+        "attractionId" : "209",
+        "rating" : 1
+      }, {
+        "attractionId" : "214",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "219",
+        "rating" : 1
+      }, {
+        "attractionId" : "223",
+        "rating" : 1
+      }, {
+        "attractionId" : "326",
+        "rating" : 1
+      }, {
+        "attractionId" : "336",
+        "rating" : 1
+      }, {
+        "attractionId" : "347",
+        "rating" : 1
+      }, {
+        "attractionId" : "353",
+        "rating" : 1
+      }, {
+        "attractionId" : "668",
+        "rating" : 1
+      } ],
+      "userName" : "Calin"
+    },
+    "-LZpzpFOIJjX8NQWtqC9" : {
+      "scores" : [ {
+        "attractionId" : "5",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "53",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "56",
+        "rating" : 1
+      }, {
+        "attractionId" : "186",
+        "rating" : 1
+      }, {
+        "attractionId" : "223",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "235",
+        "rating" : 1
+      }, {
+        "attractionId" : "255",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "259",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "262",
+        "rating" : 1
+      }, {
+        "attractionId" : "292",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "344",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "433",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "453",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "472",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "656",
+        "rating" : 0.8
+      } ],
+      "userName" : "Goganau-Iulia"
+    },
+    "-LZq4CB9fktxjfPhRVeD" : {
+      "scores" : [ {
+        "attractionId" : "39",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "1",
+        "rating" : 1
+      }, {
+        "attractionId" : "2",
+        "rating" : 1
+      }, {
+        "attractionId" : "3",
+        "rating" : 1
+      }, {
+        "attractionId" : "4",
+        "rating" : 1
+      }, {
+        "attractionId" : "5",
+        "rating" : 1
+      }, {
+        "attractionId" : "6",
+        "rating" : 1
+      }, {
+        "attractionId" : "7",
+        "rating" : 1
+      }, {
+        "attractionId" : "8",
+        "rating" : 1
+      }, {
+        "attractionId" : "9",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "10",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "11",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "12",
+        "rating" : 1
+      }, {
+        "attractionId" : "13",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "14",
+        "rating" : 0.2
+      } ],
+      "userName" : "Da"
+    },
+    "-LZu1Fi-1M3xakRlGYBe" : {
+      "location" : {
+        "latitude" : 44.41809897745903,
+        "longitude" : 26.034071801088732
+      },
+      "scores" : [ {
+        "attractionId" : "1",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "5",
+        "rating" : 1
+      }, {
+        "attractionId" : "29",
+        "rating" : 1
+      }, {
+        "attractionId" : "49",
+        "rating" : 1
+      }, {
+        "attractionId" : "50",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "54",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "67",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "68",
+        "rating" : 1
+      }, {
+        "attractionId" : "149",
+        "rating" : 1
+      }, {
+        "attractionId" : "161",
+        "rating" : 1
+      }, {
+        "attractionId" : "179",
+        "rating" : 1
+      }, {
+        "attractionId" : "185",
+        "rating" : 1
+      }, {
+        "attractionId" : "190",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "195",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "198",
+        "rating" : 1
+      } ],
+      "userName" : "Ioana-Morosan"
+    },
+    "-LZu85r1bUEuwMIa1M3H" : {
+      "location" : {
+        "latitude" : 44.4397651683642,
+        "longitude" : 26.100540629871833
+      },
+      "scores" : [ {
+        "attractionId" : "45",
+        "rating" : 1
+      }, {
+        "attractionId" : "63",
+        "rating" : 1
+      }, {
+        "attractionId" : "64",
+        "rating" : 1
+      }, {
+        "attractionId" : "69",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "176",
+        "rating" : 1
+      }, {
+        "attractionId" : "180",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "187",
+        "rating" : 1
+      }, {
+        "attractionId" : "188",
+        "rating" : 1
+      }, {
+        "attractionId" : "193",
+        "rating" : 1
+      }, {
+        "attractionId" : "195",
+        "rating" : 1
+      }, {
+        "attractionId" : "201",
+        "rating" : 1
+      }, {
+        "attractionId" : "412",
+        "rating" : 1
+      }, {
+        "attractionId" : "413",
+        "rating" : 1
+      }, {
+        "attractionId" : "450",
+        "rating" : 1
+      }, {
+        "attractionId" : "643",
+        "rating" : 1
+      } ],
+      "userName" : "Raluganea"
+    },
+    "-LZu85r1bUEuwMIa5MJH" : {
+      "location" : {
+        "latitude" : 44.4133956,
+        "longitude" : 26.0267385
+      },
+      "scores" : [ {
+        "attractionId" : "120",
+        "rating" : 1
+      }, {
+        "attractionId" : "1208",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "7",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "151",
+        "rating" : 1
+      }, {
+        "attractionId" : "152",
+        "rating" : 1
+      }, {
+        "attractionId" : "170",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "172",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "319",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "316",
+        "rating" : 0.2
+      }, {
+        "attractionId" : "49",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "331",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "81",
+        "rating" : 1
+      }, {
+        "attractionId" : "1227",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "1216",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "410",
+        "rating" : 1
+      }, {
+        "attractionId" : "694",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "697",
+        "rating" : 1
+      } ],
+      "userName" : "Norbert-Kovacs"
+    },
+    "-LZvnS7xOQldG0_B3cPr" : {
+      "scores" : [ {
+        "attractionId" : "28",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "26",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "30",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "31",
+        "rating" : 1
+      }, {
+        "attractionId" : "33",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "34",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "39",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "41",
+        "rating" : 1
+      }, {
+        "attractionId" : "42",
+        "rating" : 1
+      }, {
+        "attractionId" : "43",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "44",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "48",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "49",
+        "rating" : 1
+      }, {
+        "attractionId" : "51",
+        "rating" : 1
+      }, {
+        "attractionId" : "53",
+        "rating" : 1
+      }, {
+        "attractionId" : "55",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "57",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "58",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "59",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "61",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "62",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "65",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "67",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "68",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "70",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "71",
+        "rating" : 1
+      }, {
+        "attractionId" : "72",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "73",
+        "rating" : 1
+      }, {
+        "attractionId" : "75",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "76",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "84",
+        "rating" : 0.2
+      }, {
+        "attractionId" : "85",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "87",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "91",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "93",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "96",
+        "rating" : 1
+      }, {
+        "attractionId" : "98",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "101",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "103",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "105",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "111",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "116",
+        "rating" : 0.2
+      }, {
+        "attractionId" : "128",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "135",
+        "rating" : 1
+      }, {
+        "attractionId" : "137",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "138",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "141",
+        "rating" : 1
+      }, {
+        "attractionId" : "140",
+        "rating" : 1
+      }, {
+        "attractionId" : "142",
+        "rating" : 1
+      }, {
+        "attractionId" : "151",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "162",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "165",
+        "rating" : 1
+      }, {
+        "attractionId" : "169",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "173",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "176",
+        "rating" : 1
+      }, {
+        "attractionId" : "178",
+        "rating" : 1
+      }, {
+        "attractionId" : "179",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "180",
+        "rating" : 1
+      }, {
+        "attractionId" : "187",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "189",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "191",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "192",
+        "rating" : 1
+      }, {
+        "attractionId" : "194",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "195",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "197",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "200",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "203",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "208",
+        "rating" : 1
+      }, {
+        "attractionId" : "210",
+        "rating" : 1
+      }, {
+        "attractionId" : "212",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "213",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "214",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "216",
+        "rating" : 1
+      }, {
+        "attractionId" : "219",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "218",
+        "rating" : 1
+      }, {
+        "attractionId" : "228",
+        "rating" : 1
+      }, {
+        "attractionId" : "229",
+        "rating" : 1
+      }, {
+        "attractionId" : "236",
+        "rating" : 0.2
+      }, {
+        "attractionId" : "235",
+        "rating" : 1
+      }, {
+        "attractionId" : "238",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "240",
+        "rating" : 1
+      }, {
+        "attractionId" : "257",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "259",
+        "rating" : 1
+      }, {
+        "attractionId" : "271",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "274",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "278",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "281",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "284",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "290",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "291",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "294",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "311",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "316",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "321",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "327",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "330",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "334",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "339",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "342",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "353",
+        "rating" : 1
+      }, {
+        "attractionId" : "358",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "374",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "377",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "429",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "430",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "431",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "432",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "433",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "435",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "446",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "447",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "448",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "450",
+        "rating" : 1
+      }, {
+        "attractionId" : "451",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "452",
+        "rating" : 1
+      }, {
+        "attractionId" : "460",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "476",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "477",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "494",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "500",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "501",
+        "rating" : 1
+      }, {
+        "attractionId" : "508",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "509",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "510",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "511",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "522",
+        "rating" : 1
+      }, {
+        "attractionId" : "523",
+        "rating" : 1
+      }, {
+        "attractionId" : "524",
+        "rating" : 1
+      }, {
+        "attractionId" : "525",
+        "rating" : 1
+      }, {
+        "attractionId" : "526",
+        "rating" : 1
+      }, {
+        "attractionId" : "527",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "532",
+        "rating" : 1
+      }, {
+        "attractionId" : "531",
+        "rating" : 1
+      }, {
+        "attractionId" : "544",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "548",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "552",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "556",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "559",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "562",
+        "rating" : 1
+      }, {
+        "attractionId" : "567",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "631",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "644",
+        "rating" : 1
+      }, {
+        "attractionId" : "655",
+        "rating" : 1
+      }, {
+        "attractionId" : "656",
+        "rating" : 1
+      }, {
+        "attractionId" : "657",
+        "rating" : 1
+      }, {
+        "attractionId" : "667",
+        "rating" : 1
+      }, {
+        "attractionId" : "679",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "702",
+        "rating" : 1
+      }, {
+        "attractionId" : "703",
+        "rating" : 1
+      }, {
+        "attractionId" : "728",
+        "rating" : 1
+      }, {
+        "attractionId" : "729",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "747",
+        "rating" : 1
+      }, {
+        "attractionId" : "759",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "764",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "778",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "788",
+        "rating" : 1
+      }, {
+        "attractionId" : "808",
+        "rating" : 1
+      }, {
+        "attractionId" : "824",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "828",
+        "rating" : 1
+      }, {
+        "attractionId" : "842",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "857",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "856",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "860",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "861",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "862",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "864",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "876",
+        "rating" : 0.2
+      }, {
+        "attractionId" : "880",
+        "rating" : 0.6
+      } ],
+      "userName" : "Adela-Frentescu"
+    },
+    "-LZvnS7xOQldG0_j3cPr" : {
+      "scores" : [ {
+        "attractionId" : "15",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "31",
+        "rating" : 1
+      }, {
+        "attractionId" : "36",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "73",
+        "rating" : 0.2
+      }, {
+        "attractionId" : "151",
+        "rating" : 1
+      }, {
+        "attractionId" : "153",
+        "rating" : 1
+      }, {
+        "attractionId" : "155",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "176",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "175",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "186",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "187",
+        "rating" : 1
+      }, {
+        "attractionId" : "194",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "208",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "231",
+        "rating" : 1
+      }, {
+        "attractionId" : "230",
+        "rating" : 0.8
+      } ],
+      "userName" : "Norbert"
+    },
+    "-LZz4pE-p12hKPjjM7Ri" : {
+      "scores" : [ {
+        "attractionId" : "3",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "5",
+        "rating" : 1
+      }, {
+        "attractionId" : "4",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "31",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "1101",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "1102",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "1103",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "1105",
+        "rating" : 1
+      }, {
+        "attractionId" : "141",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "150",
+        "rating" : 1
+      }, {
+        "attractionId" : "654",
+        "rating" : 1
+      }, {
+        "attractionId" : "655",
+        "rating" : 1
+      }, {
+        "attractionId" : "658",
+        "rating" : 1
+      }, {
+        "attractionId" : "15",
+        "rating" : 1
+      }, {
+        "attractionId" : "413",
+        "rating" : 1
+      } ],
+      "userName" : "Campean-Andrei"
+    },
+    "-LZz6CUKIxPcfrqu2HpR" : {
+      "location" : {
+        "latitude" : 46.1833,
+        "longitude" : 21.3167
+      },
+      "scores" : [ {
+        "attractionId" : "1",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "5",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "4",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "3",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "2",
+        "rating" : 1
+      }, {
+        "attractionId" : "17",
+        "rating" : 1
+      }, {
+        "attractionId" : "15",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "12",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "13",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "14",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "11",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "10",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "9",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "8",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "7",
+        "rating" : 0.2
+      }, {
+        "attractionId" : "6",
+        "rating" : 0.2
+      }, {
+        "attractionId" : "19",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "18",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "20",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "21",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "95",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "93",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "91",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "88",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "86",
+        "rating" : 0.2
+      }, {
+        "attractionId" : "85",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "79",
+        "rating" : 0.2
+      }, {
+        "attractionId" : "78",
+        "rating" : 1
+      }, {
+        "attractionId" : "77",
+        "rating" : 1
+      }, {
+        "attractionId" : "76",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "75",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "71",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "69",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "68",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "67",
+        "rating" : 0.6
+      } ],
+      "userName" : "Morosan-Raul"
+    },
+    "-LZzahlSUW9iLBn4sGlK" : {
+      "location" : {
+        "latitude" : 44.4133956,
+        "longitude" : 26.0267385
+      },
+      "scores" : [ {
+        "attractionId" : "324",
+        "rating" : 1
+      }, {
+        "attractionId" : "330",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "396",
+        "rating" : 0.4
+      }, {
+        "attractionId" : "960",
+        "rating" : 1
+      }, {
+        "attractionId" : "1009",
+        "rating" : 0.6
+      }, {
+        "attractionId" : "566",
+        "rating" : 1
+      }, {
+        "attractionId" : "31",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "34",
+        "rating" : 1
+      }, {
+        "attractionId" : "32",
+        "rating" : 1
+      }, {
+        "attractionId" : "36",
+        "rating" : 1
+      }, {
+        "attractionId" : "38",
+        "rating" : 1
+      }, {
+        "attractionId" : "39",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "29",
+        "rating" : 1
+      }, {
+        "attractionId" : "15",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "579",
+        "rating" : 0.8
+      }, {
+        "attractionId" : "838",
+        "rating" : 1
+      }, {
+        "attractionId" : "839",
+        "rating" : 1
+      }, {
+        "attractionId" : "1108",
+        "rating" : 0.2
+      }, {
+        "attractionId" : "1099",
+        "rating" : 0.2
+      }, {
+        "attractionId" : "968",
+        "rating" : 0.2
+      }, {
+        "attractionId" : "1127",
+        "rating" : 1
+      } ],
+      "userName" : "sonia"
+    }
+  }
+}
