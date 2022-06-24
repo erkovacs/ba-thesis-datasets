@@ -20,7 +20,7 @@
   "homepage": "https://github.com/codepadawan93/ba-thesis-datasets#readme",
   "dependencies": {
     "dotenv": "^6.2.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "puppeteer": "^1.13.0"
   }
 }
